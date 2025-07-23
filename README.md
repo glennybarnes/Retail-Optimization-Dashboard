@@ -52,9 +52,6 @@ streamlit run app/retail_dashboard.py
 ## 📸 Screenshots
 <img width="905" height="545" alt="image" src="https://github.com/user-attachments/assets/a53e68d7-5597-40f4-804a-c1794c090578" />
 <img width="871" height="545" alt="image" src="https://github.com/user-attachments/assets/9d5ac436-48ae-4693-a256-8544514ecc1f" />
-<img width="871" height="545" alt="image" src="https://github.com/user-attachments/assets/5c1f4872-488b-4147-afd4-96f68d26fb53" />
-
-
 
 
 
